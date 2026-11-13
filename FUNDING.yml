@@ -1,0 +1,4 @@
+# Default for grom-labs' own repos only. Hosted projects MUST ship their own .github/FUNDING.yml
+# (it fully replaces this one), otherwise their Sponsor button would point at grom-labs.
+ko_fi: grom_labs
+custom: ["https://github.com/grom-labs#support"]
