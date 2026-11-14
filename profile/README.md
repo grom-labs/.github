@@ -21,7 +21,7 @@ Wrote something for a device you own — an app for your goggles, a tool, a mod?
 
 ## Questions / help
 
-Join the **[Discord](https://discord.gg/dQhe5Qgaep)** — questions, ideas, show what you built.
+Join the **[Discord](https://discord.gg/dDPb7CnmBb)** — questions, ideas, show what you built.
 
 Or open an issue / discussion in the project's repo — for toolya, [here](https://github.com/grom-labs/toolya/issues).
 
